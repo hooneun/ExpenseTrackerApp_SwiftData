@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07499B732B809495000B2F57 /* ExpensesCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07499B722B809495000B2F57 /* ExpensesCardView.swift */; };
 		07C8D5CE2B7B0FB000E57D08 /* ExpenseTrackerAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C8D5CD2B7B0FB000E57D08 /* ExpenseTrackerAppApp.swift */; };
 		07C8D5D02B7B0FB000E57D08 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C8D5CF2B7B0FB000E57D08 /* ContentView.swift */; };
 		07C8D5D22B7B0FB100E57D08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07C8D5D12B7B0FB100E57D08 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07499B722B809495000B2F57 /* ExpensesCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesCardView.swift; sourceTree = "<group>"; };
 		07C8D5CA2B7B0FB000E57D08 /* ExpenseTrackerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpenseTrackerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07C8D5CD2B7B0FB000E57D08 /* ExpenseTrackerAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseTrackerAppApp.swift; sourceTree = "<group>"; };
 		07C8D5CF2B7B0FB000E57D08 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				07C8D5E22B7B988E00E57D08 /* ExpensesView.swift */,
 				07C8D5E42B7B98B800E57D08 /* CategoriesView.swift */,
 				07C8D5E82B7B9E6000E57D08 /* AddExpenseView.swift */,
+				07499B722B809495000B2F57 /* ExpensesCardView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				07C8D5CE2B7B0FB000E57D08 /* ExpenseTrackerAppApp.swift in Sources */,
 				07C8D5E32B7B988E00E57D08 /* ExpensesView.swift in Sources */,
 				07C8D5E12B7B102800E57D08 /* Category.swift in Sources */,
+				07499B732B809495000B2F57 /* ExpensesCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
